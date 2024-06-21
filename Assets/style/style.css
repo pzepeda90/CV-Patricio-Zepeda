@@ -1,0 +1,28 @@
+body {
+    background-image: url(../img/iris\ final.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.h1 {
+    font-size: large;
+    text-align: center;
+}
+
+.bg-cafe {
+    background-color: white;
+}
+
+.bajada {
+    background-color: black;
+    padding: 1rem;
+    border-radius: px;
+    border-width: 5px;
+    border-style: solid;
+    border-image: 
+    linear-gradient(
+      to bottom, 
+      white, 
+      rgba(0, 0, 0, 0)
+    ) 1 100%;
+}
