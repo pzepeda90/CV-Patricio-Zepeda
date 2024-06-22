@@ -9,13 +9,28 @@ body {
     text-align: center;
 }
 
+.card {
+    display: flex;
+    justify-content: center;
+    margin-left: 3%;
+}
+
 .bg-cafe {
     background-color: white;
 }
 
+.Titulo-bajada {
+    display: flex;
+    justify-content: center;
+    margin-left: 5%;
+}
+
 .bajada {
+    display: flex;
+    justify-content: center;
     background-color: black;
     padding: 1rem;
+    margin-left: 4rem;
     border-radius: px;
     border-width: 5px;
     border-style: solid;
@@ -25,4 +40,48 @@ body {
       white, 
       rgba(0, 0, 0, 0)
     ) 1 100%;
+}
+
+.block {
+    width: 90%;
+    height: 30%;
+    position :relative !important; 
+    left: 9% !important;
+}
+
+.copy {
+    font-size: smaller;
+}
+
+.bg-black {
+    width: 100%;
+    background-color: black;
+    border-top: 5px;
+    border-left: 0px;
+    border-right:0px;
+    border-style: solid;
+    border-color: aliceblue;
+
+}
+
+.Botones {
+    display: flex;
+    justify-content: center;
+    margin-left: 11%;
+}
+
+.titcon {
+    display: flex;
+    justify-content: center;
+
+}
+
+.contacto {
+    margin-left: 7% ;
+    margin-bottom: 5%;
+    padding-inline: 20%;
+}
+
+.info-final {
+    font-size: x-small;
 }
