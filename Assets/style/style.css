@@ -78,10 +78,13 @@ body {
 }
 
 .contacto {
-    margin-left: 7% ;
-    margin-top: 2%;
+    display:block;
+    justify-content: center;
+    margin-left: 7%;
+    margin-right: 3%;
+    margin-top: 1%;
     margin-bottom: 5%;
-    padding-inline: 30%;
+    padding-inline: 9%;
 }
 
 .boton{
@@ -91,9 +94,9 @@ body {
     display: flex;
     justify-content: center;
     border: solid;
-    margin-left: 45%;
-    margin-right: 35%;
-    margin-bottom: 1%;
+    margin-left: 28%;
+    margin-right: 23%;
+    margin-bottom: 3%;
     padding: 10px;
     border-radius: 5px;
     text-align: center;
