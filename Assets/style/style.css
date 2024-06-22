@@ -79,10 +79,46 @@ body {
 
 .contacto {
     margin-left: 7% ;
+    margin-top: 2%;
     margin-bottom: 5%;
     padding-inline: 30%;
 }
 
+.boton{
+    background-color:black;
+    text-decoration: none;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    border: solid;
+    margin-left: 45%;
+    margin-right: 35%;
+    margin-bottom: 1%;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
 .info-final {
     font-size: x-small;
+}
+
+.bg-formacion {
+    background-color: white;
+    color: black;
+    margin-left: 5%;
+    margin-top: 3%;
+    margin-bottom: 5%;
+    padding: 1%;
+}
+
+.bg-formacion-1 {
+    color: black;
+    padding-left: 5%;
+}
+
+.bg-formacion-2 {
+    background-color: white;
+    color: black;
+    padding-left: 10%;
 }
