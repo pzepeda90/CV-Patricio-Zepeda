@@ -4,14 +4,18 @@ body {
     background-size: cover;
 }
 
-.h1 {
-    font-size: large;
+.h2 {
+    font-size: medium;
     text-align: center;
 }
 
 .h3 {
-    font-size: large;
+    font-size:medium;
     text-align: center;
+}
+
+.list {
+    font-size: smaller;
 }
 
 .card {
@@ -24,7 +28,12 @@ body {
     background-color: white;
 }
 
+.titulo-mot {
+    font-size: medium;
+}
+
 .Titulo-bajada {
+    font-size: small;
     display: flex;
     justify-content: center;
     margin-left: 5%;
