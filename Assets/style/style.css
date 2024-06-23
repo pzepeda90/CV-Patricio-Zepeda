@@ -57,6 +57,30 @@ body {
     ) 1 100%;
 }
 
+.bajada2 {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    color: black;
+    padding: 0.5rem;
+    max-width: 80%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-left: 12%;
+    border-radius: 8px;
+    border-width: 5px;
+    border-image: 
+    linear-gradient(
+      to bottom, 
+      white, 
+      rgba(0, 0, 0, 0)
+    ) 1 100%;
+}
+
+.list {
+    margin-left: 10%;
+}
+
 .block {
     width: 90%;
     height: 30%;
@@ -82,6 +106,7 @@ body {
 .Botones {
     display: flex;
     justify-content: center;
+    margin-top: 10%;
     margin-left: 11%;
 }
 
@@ -143,6 +168,13 @@ body {
     margin-top: 3%;
     margin-bottom: 5%;
     padding: 1%;
+}
+
+.bg-experiencia {
+    background-color: white;
+    color: black;
+    margin-top: 2%;
+    margin-bottom: 1%;
 }
 
 .bg-formacion-1 {
